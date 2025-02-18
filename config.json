@@ -1,0 +1,20 @@
+{
+  "APPLICATIONS": {
+    "epic games": "C:\\Program Files\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe",
+    "grand theft auto v": "C:\\Program Files\\Rockstar Games\\Grand Theft Auto V\\GTAVLauncher.exe",
+    "steam": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "call of duty": "C:\\Program Files\\Activision\\Call of Duty\\Modern Warfare\\ModernWarfare.exe"
+  },
+  "CUSTOM_APPS": {},
+  "WEB_URLS": {
+    "britannica": "https://www.britannica.com",
+    "bing": "https://www.bing.com",
+    "google": "https://www.google.com",
+    "chatgpt": "https://chat.openai.com",
+    "wikipedia": "https://www.wikipedia.org",
+    "best buy": "https://www.bestbuy.com",
+    "walmart": "https://www.walmart.com",
+    "amazon": "https://www.amazon.com"
+  },
+  "SELF_IMPROVE_URL": "https://raw.githubusercontent.com/AlexRan23/B.O.B._2.0/main/bob2.py"
+}
